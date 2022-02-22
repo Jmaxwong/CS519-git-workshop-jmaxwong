@@ -1,1 +1,2 @@
 What makes you excited about programming?
+Having the code compile without errors
